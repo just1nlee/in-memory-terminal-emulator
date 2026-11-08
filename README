@@ -1,0 +1,4 @@
+in-memory-terminal-emulator
+=============
+
+A nested (in-memory/software) terminal emulator written in C.
